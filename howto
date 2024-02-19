@@ -1,0 +1,5 @@
+# saving this here as a public repo so that i can access this even if i lose access to my account
+# also useful with public repos cuz passwords dont work anymore
+
+for private repos, instead of the traditional git clone <https-link>, try this:
+git clone https://your-token@github.com/your-username-NOT-email/name-of-your-private-repo.git
